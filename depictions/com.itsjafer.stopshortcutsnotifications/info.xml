@@ -14,8 +14,18 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>This tweak prevents the shortcuts app from sending notifications.</description>
+		<description>In particular, it speeds up the process for running shortcuts automations. Take a look at the screenshots to see how much faster it runs.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Disabled gif</description>
+			<image>before.gif</image>
+		</screenshot>
+		<screenshot>
+			<description>Enabled gif</description>
+			<image>after.gif</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
