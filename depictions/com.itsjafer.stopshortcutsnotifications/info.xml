@@ -1,0 +1,23 @@
+<package>
+	<id>com.itsjafer.stopshortcutsnotifications</id>
+	<name>Stop Shortcuts Notifications</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This tweak prevents the shortcuts app from sending notifications.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
