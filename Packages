@@ -4,7 +4,7 @@ Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Version: 1.1.0
 Architecture: iphoneos-arm
 Description: Stops all shortcuts notifications from being pushed.
-Size: 10,878
+Size: 10878
 MD5sum: 925bd2358cc9e5386a8b177937acaf93
 Maintainer: itsjafer <itsjafer@gmail.com>
 Author: itsjafer <itsjafer@gmail.com>
