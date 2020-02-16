@@ -5,7 +5,6 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Description: Stops all shortcuts notifications from being pushed.
 Size: 10878
-MD5sum: 925bd2358cc9e5386a8b177937acaf93
 Maintainer: itsjafer <itsjafer@gmail.com>
 Author: itsjafer <itsjafer@gmail.com>
 Section: Tweaks
@@ -19,7 +18,6 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Removes limit on resizing picture-in-picture windows
 Size: 8554
-MD5sum: 733653b706be325849267e3670a0d83a
 Maintainer: itsjafer <itsjafer@gmail.com>
 Author: itsjafer <itsjafer@gmail.com>
 Section: Tweaks
