@@ -15,6 +15,23 @@ Author: itsjafer <itsjafer@gmail.com>
 Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bigpipenergy
 Name: BigPiPEnergy
 
+Package: com.itsjafer.bigpipenergy
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: itsjafer <itsjafer@gmail.com>
+Installed-Size: 284
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.itsjafer.bigpipenergy_1.1.0_iphoneos-arm.deb
+Size: 8752
+MD5sum: 38ea6f0d1876beac669240c55cd223c7
+SHA1: bdfd97f6942a947c81c71243abfc940fe27811af
+SHA256: 39198e1c5c6b01d70200a2bed97717dec75d7babea0fac36d9b7f957819bc8ba
+Section: Tweaks
+Description: Removes the max size on Picture in Picture.
+Author: itsjafer <itsjafer@gmail.com>
+Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bigpipenergy
+Name: BigPiPEnergy
+
 Package: com.itsjafer.stopshortcutsnotifications
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -46,7 +63,6 @@ SHA256: cc967f3a42a73b3f64e27465e15c2f65d9e8013ee0c90d1aaed0c0eab2468397
 Section: Tweaks
 Description: Stops all shortcuts notifications from being pushed.
 Author: itsjafer <itsjafer@gmail.com>
-Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bigpipenergy
 Name: StopShortcutsNotifications
 
 Package: com.itsjafer.stopshortcutsnotifications
