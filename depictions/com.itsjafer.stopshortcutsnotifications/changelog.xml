@@ -2,8 +2,6 @@
 	<changes>
 		<version>1.0.0</version>
 		<change>Initial release</change>
-	</changes>
-	<changes>
 		<version>1.1.0</version>
 		<change>Added option to only disable automations notifications</change>
 	</changes>
