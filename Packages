@@ -1,3 +1,20 @@
+Package: com.itsjafer.bettermultitasking
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: itsjafer <itsjafer@gmail.com>
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/com.itsjafer.bettermultitasking_1.0.0_iphoneos-arm.deb
+Size: 8984
+MD5sum: dff5354a6e8e97e9e08ccd57e296f4fb
+SHA1: 2960e708bddb4b05b644ac535c497cc6b7e6dd4e
+SHA256: e008fdc9846b82fd86b8868646ca329484b99fdd766ee44c4b14cc228cb156f7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: itsjafer <itsjafer@gmail.com>
+Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bettermultitasking
+Name: BetterMultitasking
+
 Package: com.itsjafer.bigpipenergy
 Version: 1.0.0
 Architecture: iphoneos-arm
