@@ -1,7 +1,7 @@
 <package>
 	<id>com.itsjafer.bigpipenergy</id>
 	<name>Big PiP Energy</name>
-	<version>1.0.0</version>
+	<version>1.3.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.3</maxiOS>
@@ -20,6 +20,7 @@
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>
+		<change>Added ability to place PiP anywhere (experimental)</change>
 	</changelog>
 	<links></links>
 </package>

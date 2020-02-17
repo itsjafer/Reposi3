@@ -3,4 +3,8 @@
 		<version>1.0.0</version>
 		<change>Initial release</change>
 	</changes>
+	<changes>
+		<version>1.3.0</version>
+		<change>PiP can now be positioned anywhere</change>
+	</changes>
 </changelog>
