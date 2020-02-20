@@ -19,7 +19,7 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>Fixed dependencies, added warning to settings</change>
+		<change>Added the ability to enable/disable for specific apps</change>
 	</changelog>
 	<links></links>
 </package>
