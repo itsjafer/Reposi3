@@ -28,7 +28,6 @@
 	</screenshots>
 	<changelog>
 		<change>Added support for iOS 14 (experimental)</change>
-		<change>Fixed double notification problem when automation filter was enabled.</change>
 	</changelog>
 	<links></links>
 </package>
