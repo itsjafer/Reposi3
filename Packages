@@ -49,6 +49,23 @@ Author: itsjafer <itsjafer@gmail.com>
 Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bettermultitasking
 Name: BetterMultitasking
 
+Package: com.itsjafer.bettermultitasking
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: itsjafer <itsjafer@gmail.com>
+Installed-Size: 316
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.itsjafer.bettermultitasking_1.4.0_iphoneos-arm.deb
+Size: 10950
+MD5sum: 8bb0f9f74ba0a3ec5d786d659adde417
+SHA1: 925cffd35b0de3867d07cc129dd39f5cdd368964
+SHA256: 8e57dea079bc45a9418fbdcdc763e859bdc2cac608417ccc6b3ee500e52e7ff4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: itsjafer <itsjafer@gmail.com>
+Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bettermultitasking
+Name: BetterMultitasking
+
 Package: com.itsjafer.bigpipenergy
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -178,6 +195,22 @@ Size: 13672
 MD5sum: 5abf7f4b96588e673166568e22aa89b1
 SHA1: 3d25557239c4aaec9ebefff057d78e48c7fb18ff
 SHA256: 57fd43755311178c9945119833c20c5930a59768ca1b5dd395de53d5a657d5c5
+Section: Tweaks
+Description: Stops all shortcuts notifications from being pushed.
+Author: itsjafer <itsjafer@gmail.com>
+Name: StopShortcutsNotifications
+
+Package: com.itsjafer.stopshortcutsnotifications
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: itsjafer <itsjafer@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.itsjafer.stopshortcutsnotifications_1.5.0_iphoneos-arm.deb
+Size: 13108
+MD5sum: ff435301d6d7365ba67c9bad7c7f94c6
+SHA1: 4678103a9198a11bcdd884703bd5e08318454685
+SHA256: 8fb26dcf0e21b6db58f2a644d352989d63b5cbf210243f6bd96d3c298fbd91e0
 Section: Tweaks
 Description: Stops all shortcuts notifications from being pushed.
 Author: itsjafer <itsjafer@gmail.com>

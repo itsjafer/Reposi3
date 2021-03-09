@@ -1,10 +1,10 @@
 <package>
 	<id>com.itsjafer.bettermultitasking</id>
 	<name>Better Multitasking</name>
-	<version>1.1.0</version>
+	<version>1.4.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>14.3</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -19,7 +19,7 @@
 	<screenshots>
 	</screenshots>
 	<changelog>
-		<change>Added the ability to enable/disable for specific apps</change>
+		<change>Updated for iOS 14, added multiple windows for the same app</change>
 	</changelog>
 	<links></links>
 </package>

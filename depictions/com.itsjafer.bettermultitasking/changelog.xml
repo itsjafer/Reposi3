@@ -6,5 +6,7 @@
 		<change>Fixed dependencies</change>
 		<version>1.2.0</version>
 		<change>Added a blacklist on a per-app basis</change>
+		<version>1.4.0</version>
+		<change>Update for iOS 14, added ability to have multiple windows of the same app</change>
 	</changes>
 </changelog>

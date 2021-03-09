@@ -1,10 +1,10 @@
 <package>
 	<id>com.itsjafer.stopshortcutsnotifications</id>
 	<name>Stop Shortcuts Notifications</name>
-	<version>1.4.0</version>
+	<version>1.5.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>14.4</maxiOS>
+			<maxiOS>14.3</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
