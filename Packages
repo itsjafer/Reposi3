@@ -131,7 +131,6 @@ SHA256: cc967f3a42a73b3f64e27465e15c2f65d9e8013ee0c90d1aaed0c0eab2468397
 Section: Tweaks
 Description: Stops all shortcuts notifications from being pushed.
 Author: itsjafer <itsjafer@gmail.com>
-Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.stopshortcutsnotifications
 Name: StopShortcutsNotifications
 
 Package: com.itsjafer.stopshortcutsnotifications
@@ -148,7 +147,7 @@ SHA256: b3771417d5d506c811feb8f6fe6808e673dc8d12561df0c03371057d2cb9be72
 Section: Tweaks
 Description: Stops all shortcuts notifications from being pushed.
 Author: itsjafer <itsjafer@gmail.com>
-Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.stopshortcutsnotifications
+Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bigpipenergy
 Name: StopShortcutsNotifications
 
 Package: com.itsjafer.stopshortcutsnotifications
@@ -165,6 +164,22 @@ SHA256: 9ba7985c2fbcb51d64ce9a59ae83a35cce27a8fc78dfc261d402dcc8b63c63a9
 Section: Tweaks
 Description: Stops all shortcuts notifications from being pushed.
 Author: itsjafer <itsjafer@gmail.com>
-Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.stopshortcutsnotifications
+Depiction: https://itsjafer.com/repo/depictions/?p=com.itsjafer.bigpipenergy
+Name: StopShortcutsNotifications
+
+Package: com.itsjafer.stopshortcutsnotifications
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: itsjafer <itsjafer@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.itsjafer.stopshortcutsnotifications_1.4.0_iphoneos-arm.deb
+Size: 13672
+MD5sum: 5abf7f4b96588e673166568e22aa89b1
+SHA1: 3d25557239c4aaec9ebefff057d78e48c7fb18ff
+SHA256: 57fd43755311178c9945119833c20c5930a59768ca1b5dd395de53d5a657d5c5
+Section: Tweaks
+Description: Stops all shortcuts notifications from being pushed.
+Author: itsjafer <itsjafer@gmail.com>
 Name: StopShortcutsNotifications
 
